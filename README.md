@@ -8,3 +8,4 @@ It includes:
 + a bootstrap method for estimating PERMANOVA power from simulated distance matrices
 
 A detailed description of the methods underlying the *micropower* package has been submitted for publication. Please see: Kelly BJ, Gross R, Bittinger K, Sherrill-Mix S, Lewis JD, Collman RG, Li H, Bushman FD. Power and sample-size estimation for microbiome studies using pairwise distances and PERMANOVA.
+A line I wrote in my computer
